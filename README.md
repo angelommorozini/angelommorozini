@@ -1,29 +1,24 @@
 # Hi, I'm Angelo 👋
 
-![Profile Views](https://img.shields.io/badge/Profile-Active-brightgreen)  
-![GitHub Followers](https://img.shields.io/badge/Followers-👥-blue)  
-
-I'm a **beginner IT professional** currently pursuing a **Technologist in Analysis and Development of Systems (ADS)**.  
+I'm a beginner IT professional currently pursuing a **Technologist in Analysis and Development of Systems (ADS)**.  
 I’m passionate about learning new technologies and building practical projects with **HTML, CSS, JavaScript**, and other programming tools.
 
 ---
 
 ## 🔭 Currently Learning / Working On
 
-- Front-end projects like **Real-Time Clock** ⏰ and **Adding Numbers Calculator** 🧮  
-- Landing pages on topics like **Email Security Concepts** 📧  
+- Front-end projects like **Real-Time Clock** and **Adding Numbers Calculator**  
+- Landing pages on topics like **Email Security Concepts**  
 - Basics of **Web Development**, **JavaScript**, and **EAD technologies**  
 - Exploring areas like **Blue Team / Cybersecurity** and other IT fields  
 
 ---
 
-## 💻 Skills
+## 💡 Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  
-![Git](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Problem-solving and project-based learning  
 
 ---
 
