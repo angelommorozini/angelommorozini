@@ -1,6 +1,6 @@
 # Hi, I'm Angelo 👋
 
-I'm a beginner IT professional currently pursuing a **Technologist in Analysis and Development of Systems (ADS)**.  
+I'm a beginner IT professional currently pursuing a **Technologist in Analysis and Development of Systems (ADS)** and have also completed a **Cybersecurity course**.  
 I’m passionate about learning new technologies and building practical projects with **HTML, CSS, JavaScript**, and other programming tools.
 
 ---
@@ -18,7 +18,10 @@ I’m passionate about learning new technologies and building practical projects
 
 - HTML, CSS, JavaScript  
 - Git & GitHub  
-- Problem-solving and project-based learning  
+- Problem-solving and project-based learning
+- Python
+- Cybersecurity Concepts
+- Node.js
 
 ---
 
