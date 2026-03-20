@@ -45,3 +45,4 @@ Here are some projects you can check out:
 
 - GitHub: [angelommorozini](https://github.com/angelommorozini)
 - Email: angelomorozini_809@hotmail.com
+- Linkedin: www.linkedin.com/in/angelo-morozini
