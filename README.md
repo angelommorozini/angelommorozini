@@ -25,7 +25,7 @@ I'm passionate about learning new technologies and building practical projects w
 - Landing pages on topics like **Email Security Concepts**
 - Basics of **Web Development**, **JavaScript**, and **EAD technologies**
 - Exploring areas like **Blue Team / Cybersecurity** and other IT fields
-- Game development in **C** — Jokenpô and Super Trunfo
+- Game development in **C** — Jokenpô, Super Trunfo and Maior Menor ou Igual
 
 ---
 
@@ -38,6 +38,7 @@ Here are some projects you can check out:
 - [Email Security Concepts Landing Page](https://github.com/angelommorozini/landing-page) 📧 — Educational landing page about email safety
 - [Jogo de Jokenpô](https://github.com/angelommorozini/jogo-jokenpo) ✂️ — Rock Paper Scissors game in C
 - [Super Trunfo](https://github.com/angelommorozini/super-trunfo-c) 🃏 — Card game in C
+- [Jogo Maior, Menor ou Igual](https://github.com/angelommorozini/jogo-maior-menor) 🎯 — Number guessing game in C
 
 ---
 
@@ -45,4 +46,4 @@ Here are some projects you can check out:
 
 - GitHub: [angelommorozini](https://github.com/angelommorozini)
 - Email: angelomorozini_809@hotmail.com
-- Linkedin: www.linkedin.com/in/angelo-morozini
+- LinkedIn: [angelo-morozini](https://www.linkedin.com/in/angelo-morozini)
