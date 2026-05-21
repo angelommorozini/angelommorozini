@@ -42,5 +42,5 @@ Here are some projects you can check out:
 
 ## 📫 Connect with Me
 - GitHub: [angelommorozini](https://github.com/angelommorozini)
-- Email: angelomorozini_809@hotmail.com
+- Email: moroziniangelo@gmail.com
 - LinkedIn: [angelo-morozini](https://www.linkedin.com/in/angelo-morozini)
