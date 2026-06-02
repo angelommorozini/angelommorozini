@@ -1,10 +1,12 @@
 # Hi, I'm Angelo 👋
+
 I'm an IT professional currently pursuing a **Technologist in Analysis and Development of Systems (ADS)** and have completed a **Cybersecurity course.**  
 I'm passionate about learning new technologies, building practical projects, and diving deep into **Blue Team / SOC** operations.
 
 ---
 
 ## 🛠️ Skills
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,12 +18,15 @@ I'm passionate about learning new technologies, building practical projects, and
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-0085CA?style=for-the-badge&logo=wazuh&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-green?style=for-the-badge)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 ---
 
 ## 🔭 Currently Learning / Working On
-- Building a **SOC Lab** with **Wazuh + Grafana** using Docker and VirtualBox
+
+- Expanding the **Wazuh Blue Team Lab** with Grafana dashboards and YARA integration
 - Practicing **Linux** administration and terminal commands
 - Exploring **SIEM**, **log analysis**, and **threat detection**
 - Front-end projects and **Web Development**
@@ -30,7 +35,10 @@ I'm passionate about learning new technologies, building practical projects, and
 ---
 
 ## 📌 Projects
+
 Here are some projects you can check out:
+
+- [Wazuh Blue Team Lab](https://github.com/angelommorozini/wazuh-blue-team-lab) 🛡️ — SIEM lab with custom detection rules mapped to MITRE ATT&CK, validated with Atomic Red Team
 - [Real-Time Clock](https://github.com/angelommorozini/real-time-clock) 🕐 — A digital clock with dynamic greetings
 - [Adding Numbers Calculator](https://github.com/angelommorozini/adding-numbers) 🔢 — Simple interactive number calculator
 - [Email Security Concepts Landing Page](https://github.com/angelommorozini/landing-page) 📧 — Educational landing page about email safety
@@ -41,6 +49,6 @@ Here are some projects you can check out:
 ---
 
 ## 📫 Connect with Me
+
 - GitHub: [angelommorozini](https://github.com/angelommorozini)
-- Email: moroziniangelo@gmail.com
 - LinkedIn: [angelo-morozini](https://www.linkedin.com/in/angelo-morozini)
