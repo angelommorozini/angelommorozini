@@ -21,32 +21,30 @@ My main focus is developing practical skills in:
 
 A complete Blue Team laboratory built to simulate real-world security monitoring and threat detection scenarios.
 
+<img src="https://raw.githubusercontent.com/angelommorozini/wazuh-blue-team-lab/main/screenshots/wazuh-overview-dashboard.png" width="900">
+
 **Technologies used:**
 
-![Wazuh](https://img.shields.io/badge/Wazuh-0085CA?style=for-the-badge\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-0085CA?style=for-the-badge&logo=wazuh&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-Endpoint%20Monitoring-green?style=for-the-badge)
-![MITRE ATT\&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-![Wazuh Dashboard](images/wazuh-overview.png)
+#### Key Features
 
-### Key Features
+- SIEM deployment with Wazuh
+- Sysmon endpoint telemetry collection
+- MITRE ATT&CK mapping
+- Atomic Red Team attack simulations
+- Custom detection rules
+- VirusTotal integration
+- Grafana dashboards
+- Threat Hunting workflows
 
-* Wazuh SIEM deployment and management
-* Sysmon endpoint telemetry collection
-* MITRE ATT&CK mapping
-* Atomic Red Team attack simulations
-* Custom detection rules
-* VirusTotal integration
-* Grafana security dashboards
-* Security event correlation
-* Log analysis and threat detection
-
----
-
-## 🛠️ Technical Skills
+🔗 Repository:
+https://github.com/angelommorozini/wazuh-blue-team-lab
 
 ### Cybersecurity
 
@@ -83,11 +81,11 @@ A complete Blue Team laboratory built to simulate real-world security monitoring
 
 ## 📌 Other Projects
 
-* Real-Time Clock
-* Email Security Landing Page
-* Adding Numbers Calculator
-* Jokenpô Game (C)
-* Super Trunfo (C)
+- [Real-Time Clock](https://github.com/angelommorozini/real-time-clock)
+- [Email Security Landing Page](https://github.com/angelommorozini/landing-page)
+- [Adding Numbers Calculator](https://github.com/angelommorozini/adding-numbers)
+- [Jokenpô Game](https://github.com/angelommorozini/jogo-jokenpo)
+- [Super Trunfo](https://github.com/angelommorozini/super-trunfo-c)
 
 ---
 
