@@ -1,18 +1,15 @@
 # Hi, I'm Angelo 👋
 
-### 🛡️ Aspiring SOC Analyst | Cybersecurity Student | Blue Team Enthusiast
+🛡️ **IT Support & Infrastructure | Cybersecurity Student | Blue Team Enthusiast**
 
-I'm currently pursuing a **Technologist Degree in Analysis and Systems Development (ADS)** and building hands-on experience in **Cybersecurity**, **Blue Team Operations**, and **Security Monitoring**.
+I'm currently pursuing a Technologist Degree in Analysis and Systems Development (ADS) and seeking my first formal opportunity in the IT field (Support, Help Desk, or Infrastructure), while continuously building hands-on experience in Cybersecurity and Systems Administration.
 
 My main focus is developing practical skills in:
-
-* Security Operations Center (SOC)
-* Threat Detection & Monitoring
-* SIEM Technologies
-* Incident Investigation
+* IT Support & Operating Systems (Linux/Windows)
+* Networking & Cloud Computing basics
+* Security Operations Center (SOC) & SIEM Technologies
+* Threat Detection & Incident Investigation (Wazuh)
 * MITRE ATT&CK Framework
-* Linux Administration
-
 ---
 
 ## 🚀 Featured Project
