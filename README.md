@@ -1,8 +1,8 @@
 # Hi, I'm Angelo 👋
 
-🛡️ **IT Support & Infrastructure | Cybersecurity Student | Blue Team Enthusiast**
+🛡️ **IT Support & Infrastructure | Cybersecurity Student | Data & BI Learner**
 
-I'm currently pursuing a Technologist Degree in Analysis and Systems Development (ADS) and seeking my first formal opportunity in the IT field (Support, Help Desk, or Infrastructure), while continuously building hands-on experience in Cybersecurity and Systems Administration.
+I'm currently pursuing a Technologist Degree in Analysis and Systems Development (ADS) and seeking my first formal opportunity in the IT field (Support, Help Desk, or Infrastructure), while continuously building hands-on experience in Cybersecurity, Systems Administration, and Data & BI.
 
 My main focus is developing practical skills in:
 * IT Support & Operating Systems (Linux/Windows)
@@ -10,6 +10,8 @@ My main focus is developing practical skills in:
 * Security Operations Center (SOC) & SIEM Technologies
 * Threat Detection & Incident Investigation (Wazuh)
 * MITRE ATT&CK Framework
+* SQL & Relational Databases (MySQL)
+* Data Visualization & Business Intelligence (Power BI)
 
 ---
 
@@ -77,6 +79,8 @@ A complete Blue Team laboratory built to simulate real-world security monitoring
 * Incident Response
 * Grafana Dashboards
 * Wazuh Rule Development
+* Power BI & Data Modeling
+* SQL & Database Design
 
 ---
 
